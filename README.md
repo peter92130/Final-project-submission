@@ -64,4 +64,11 @@ train_history = model.fit(x_data,x_label,
 ***
 |辨識準確      |辨識不準確    |成果    |
 |:-----------:|:-----------:|:------:|
-||||
+|![image](https://raw.githubusercontent.com/peter92130/Final-project-submission/master/first.jpg)|![image](https://raw.githubusercontent.com/peter92130/Final-project-submission/master/other.jpg)|![image](https://raw.githubusercontent.com/peter92130/Final-project-submission/master/Result.jpg)|
+
+## 心得
+* 楊以德：
+
+* 李冠穎：
+
+* 涂耕熏：
