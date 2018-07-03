@@ -67,8 +67,6 @@ train_history = model.fit(x_data,x_label,
 |![image](https://raw.githubusercontent.com/peter92130/Final-project-submission/master/first.jpg)|![image](https://raw.githubusercontent.com/peter92130/Final-project-submission/master/other.jpg)|![image](https://raw.githubusercontent.com/peter92130/Final-project-submission/master/Result.jpg)|
 
 ## 心得
-* 楊以德：
-
+* 楊以德：這次的作業讓我對於機器的訓練與辨識感到相當興趣，可能之後會想更加了解python在訓練上的相關知識
 * 李冠穎：
-
 * 涂耕熏：
